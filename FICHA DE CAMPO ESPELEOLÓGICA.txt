@@ -1,0 +1,75 @@
+
+
+# FICHA DE CAMPO ESPELEOLÓGICA SUPRAM NM
+
+
+Empreendimento
+Nº do ponto GPS (Coordenada)
+Coordenada X
+Coordenada Y
+Coordenada Z
+Nº das fotos
+
+
+## Cavidade (localização)
+- Base do maciço
+- Meia encosta
+- Topo do maciço
+
+## Morfologia
+- Depressão
+- Planície
+- Chapada
+- Tabuleiro
+- Escarpa
+- Serra
+- Morro
+- Colina
+- Terraço
+
+## Gênese (combo)
+- Dissolução
+- Fraturamento
+- Desabamentos
+
+## Características internas (bool)  
+- Zona afótica
+- Microclima (???)
+- Depósitos orgânicos
+
+## Espeleotemas (bool) 
+- Estalagmites
+- Estalactites
+- Colunas/Pilar
+- Pendentes
+- Travertinos
+- Microtravertino
+- Coraloides
+- Blocos abatidos
+- Escorrimentos
+- Pérolas
+
+## Recurso hídrico (bool)
+- Gotejamento
+- Poças isoladas
+- Nascentes
+- Curso d'água perene
+- Curso d'água intermitente
+- enxurradas
+
+## Arqueologia ??
+## Paleotologia ??
+
+## Feições Cársticas (bool)
+- Lapiás
+- Dolinas
+- Sumidouros
+- Paredões
+- Vales cegos
+- Abrigos
+- Outras:
+
+# Evolução
+- Paragênese
+- Singênese
+
